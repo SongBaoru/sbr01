@@ -10,5 +10,6 @@ public class HelloGit {
 		System.out.println("更新333");
 		System.out.println("搞什么鬼");
 		System.out.println("试试");
+		System.out.println("试试2");
 	}
 }
